@@ -1,0 +1,206 @@
+h1{
+    font-family: duckie, sans-serif;
+    font-weight: 400;
+    font-size:80px;
+    font-style: normal;
+    color:#ffffff;
+    text-align: center;
+}
+
+.welcome-text {
+    display:grid;
+    align-items: center; 
+  }
+
+h2{
+    font-family: futura-pt, sans-serif;
+    font-weight: 800;
+    font-size:65px;
+    font-style:italic;
+    font-style:heavy;
+    color: #333333;
+    text-align: center;
+}
+
+
+h3{
+    font-family: duckie, sans-serif;
+    font-weight: 400;
+    font-size:35px;
+    font-style:italic;
+    color: #000000;
+}
+
+h4{
+    font-family: futura-pt, sans-serif;
+    font-weight: 800;
+    font-size:45px;
+    font-style:italic;
+    font-style:heavy;
+    color: #333333;
+    text-align: center;
+}
+
+h5{
+    font-family: futura-pt, sans-serif;
+    font-weight: 600;
+    font-size:25px;
+    font-style:italic;
+    font-style:heavy;
+    color: #333333;
+    text-align: center;
+}
+
+h6{
+    font-family: futura-pt, sans-serif;
+    font-weight: 400;
+    font-size:20px;
+    font-style: normal;
+    color:#333333
+}
+
+.form-label{
+    font-family: futura-pt, sans-serif;
+    font-weight: 400;
+    font-size:20px;
+    font-style: normal;
+    color:#333333
+}
+
+.form-check-label{
+    font-family: futura-pt, sans-serif;
+    font-weight: 400;
+    font-size:20px;
+    font-style: normal;
+    color:#333333;
+}
+
+p{
+    font-family: futura-pt, sans-serif;
+    font-weight: 400;
+    font-size:20px;
+    font-style: normal;
+    color:#333333
+}
+
+body{
+    background-color:#8DB5E0;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+.nav-link:link{
+    font-family: futura-pt, sans-serif;
+    font-weight: 800;
+    font-size:30px;
+    font-style: normal;
+    color:#333333;
+    
+}
+      
+.nav-link:visited {
+    font-family: futura-pt, sans-serif;
+    font-weight: 800;
+    font-size:30px;
+    font-style: normal;
+    color:#333333;
+}
+
+.nav-link:hover{
+    font-family: futura-pt, sans-serif;
+    font-weight: 800;
+    font-size:30px;
+    font-style: normal;
+    color:#8DB5E0;
+}
+
+.navbar{
+    justify-content: center;
+}
+
+.footer{
+    font-family: duckie, sans-serif;
+    font-weight: 800;
+    font-size:30px;
+    font-style: normal;
+    color:#333333;
+    background-color:#fff;
+    width: 100%;
+   
+    
+}
+           
+.bg-custom {
+    background-color:#fff;
+    justify-content: center;
+ }
+
+.bi {
+    color:#333333;
+}
+
+.about-container{
+    background-color:#fff;
+    max-width: fit-content;
+    justify-content: center;
+    
+}
+
+.col-sm-4{
+    justify-content: center;
+    max-width: fit-content;
+}
+
+.btn-primary{
+    background-color:#333333;
+    color:#ffffff;
+}
+
+.btn-primary:hover{
+    background-color:#ffffff;
+    color:#8DB5E0;
+}
+
+.card-links{
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-size:30px;
+    font-style:italic;
+    color:#333333;
+}
+
+.card-links:hover{
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-size:30px;
+    font-style:italic;
+    color:#8DB5E0;
+}
+
+.card-main{
+    background-color: #333333;
+}
+
+.main-card-link{
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-size:30px;
+    font-style:italic;
+    color:#8DB5E0;
+}
+
+
+.main-card-link:hover{
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-size:30px;
+    font-style:italic;
+    color:#ffffff;
+}
+
+.container-bg{
+    background-color:#ffffff
+}
